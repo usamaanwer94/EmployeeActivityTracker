@@ -1,4 +1,4 @@
-#   Welcome to the EmployeeActivityTracker wiki!_
+#   Welcome to the EmployeeActivityTracker _
 
 ***
 * ****EmployeeActivityTracker(EAT)****    : This app provides a phenomenal platform to monitor and track the employee's workout and their working hours. A perfect Solution to Human Resources department to evaluate and maximize their employee's efficiency with the help of keyboard's counts and Screenshots of the Employee's screen provided by this app.
